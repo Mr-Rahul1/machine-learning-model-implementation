@@ -61,3 +61,4 @@ The model showed high accuracy (about 98%), with very good precision and recall,
 Finally, the trained model was tested on a few new example messages to show how it classifies unseen input, demonstrating practical use.
 
 # OUTPUT
+![Image](https://github.com/user-attachments/assets/2e99c17d-51c8-4ff9-aa53-d13d3989af8c)
